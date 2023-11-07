@@ -1,0 +1,24 @@
+{
+  "name": "sdiclient",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "prestart": "npm run build",
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/identity": "^3.3.0",
+    "@azure/keyvault-certificates": "^4.7.0",
+    "@azure/keyvault-secrets": "^4.7.0",
+    "soap": "^1.0.0",
+    "strong-soap": "^3.5.5"
+  },
+  "devDependencies": {
+    "@azure/functions": "^3.0.0",
+    "@types/node": "^16.x",
+    "typescript": "^4.0.0"
+  }
+}
