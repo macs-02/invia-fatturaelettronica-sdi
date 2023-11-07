@@ -7,4 +7,4 @@ Per creare la cartella `dist`, esegui la function subito dopo aver clonato il pr
 - TrasmissioneTypes_v1.0.xsd
 - SDI-PIVASOTTOSCR-CLIENT.pfx
 
-Per ulteriori dettagli, consulta la mia guida.
+Per ulteriori dettagli, consulta la mia guida https://massimomorchio.medium.com/fattura-elettronica-accreditamento-canale-sdicoop-ef6afb65cacb
